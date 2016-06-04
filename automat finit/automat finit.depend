@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464685971 source:d:\faculta\lf\automat finit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
